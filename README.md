@@ -1,2 +1,1 @@
-# divya-priya
-web
+# Divya-Priya
